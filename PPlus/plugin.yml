@@ -1,0 +1,9 @@
+name: PPLus
+author: me
+main: com.sergio.plugin.Main
+version: 1
+commands:
+ warn:
+  description: WAnr
+ delwarn:
+  description: DDD
